@@ -9,15 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ustbtravel1_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ustbtravel1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ustbtravel1_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ustb/controller/BaseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ustb/controller/BaseServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ustbtravel1.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -387,8 +379,16 @@
       <workItem from="1565884854075" duration="295000" />
       <workItem from="1565945817467" duration="607000" />
       <workItem from="1566030201802" duration="480000" />
-      <workItem from="1566030794051" duration="1756000" />
+      <workItem from="1566030794051" duration="2038000" />
     </task>
+    <task id="LOCAL-00001" summary="second_commit">
+      <created>1566032628521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566032628521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -415,6 +415,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second_commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
