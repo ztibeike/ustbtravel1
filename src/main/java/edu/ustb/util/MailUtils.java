@@ -14,8 +14,8 @@ import javax.mail.internet.MimeMessage;
  * 发邮件工具类
  */
 public final class MailUtils {
-    private static final String USER = "zengtao0618@qq.com"; // 发件人称号，同邮箱地址
-    private static final String PASSWORD = "cvlxmwqvezreecaj";
+    private static final String USER = "*****"; // 发件人称号，同邮箱地址
+    private static final String PASSWORD = "*****";
 
     /**
      * @param to    收件人邮箱
