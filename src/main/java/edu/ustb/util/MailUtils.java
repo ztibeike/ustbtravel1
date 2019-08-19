@@ -15,7 +15,7 @@ import javax.mail.internet.MimeMessage;
  */
 public final class MailUtils {
     private static final String USER = "zengtao0618@qq.com"; // 发件人称号，同邮箱地址
-    private static final String PASSWORD = "*******";
+    private static final String PASSWORD = "cvlxmwqvezreecaj";
 
     /**
      * @param to    收件人邮箱
@@ -71,7 +71,7 @@ public final class MailUtils {
         return false;
     }
 
-    public static void main(String[] args) throws Exception { // 做测试用
+    public static void main(String[] args)  { // 做测试用
         MailUtils.sendMail("Tomzeng9@gmail.com", "你好，这是一封测试邮件，无需回复。", "测试邮件");
         System.out.println("发送成功");
     }
