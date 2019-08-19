@@ -14,8 +14,8 @@ import javax.mail.internet.MimeMessage;
  * 发邮件工具类
  */
 public final class MailUtils {
-    private static final String USER = "woshi@163.com"; // 发件人称号，同邮箱地址
-    private static final String PASSWORD = "*******";
+    private static final String USER = "zengtao0618@qq.com"; // 发件人称号，同邮箱地址
+    private static final String PASSWORD = "cvlxmwqvezreecaj";
 
     /**
      * @param to    收件人邮箱
@@ -27,7 +27,7 @@ public final class MailUtils {
         try {
             final Properties props = new Properties();
             props.put("mail.smtp.auth", "true");
-            props.put("mail.smtp.host", "smtp.163.com");
+            props.put("mail.smtp.host", "smtp.qq.com");
 
             // 发件人的账号
             props.put("mail.user", USER);
@@ -72,7 +72,7 @@ public final class MailUtils {
     }
 
     public static void main(String[] args) throws Exception { // 做测试用
-        MailUtils.sendMail("2441632735@qq.com", "你好，这是一封测试邮件，无需回复。", "测试邮件");
+        MailUtils.sendMail("Tomzeng9@gmail.com", "你好，这是一封测试邮件，无需回复。", "测试邮件");
         System.out.println("发送成功");
     }
 
