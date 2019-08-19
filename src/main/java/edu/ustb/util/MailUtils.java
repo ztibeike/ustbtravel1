@@ -72,7 +72,7 @@ public final class MailUtils {
     }
 
     public static void main(String[] args)  { // 做测试用
-        MailUtils.sendMail("Tomzeng9@gmail.com", "你好，这是一封测试邮件，无需回复。", "测试邮件");
+        MailUtils.sendMail("yourmailaccount@xx.com", "你好，这是一封测试邮件，无需回复。", "测试邮件");
         System.out.println("发送成功");
     }
 
