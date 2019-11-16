@@ -5,14 +5,55 @@
   </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ustbtravel1:war exploded" />
+      <artifact name="ustbtravel:war exploded" />
+      <artifact name="ustbtravel:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ustbtravel1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ustbtravel1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ustbtravel_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f221dfcf-6017-4772-b167-3548214c5dcb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f221dfcf-6017-4772-b167-3548214c5dcb.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ustb/util/MailUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ustb/util/MailUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/controller/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/controller/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/util/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/classes/edu/ustb/util/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/css/route-detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/css/route-detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/error/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/error/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/error/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/error/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/favoriterank.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/favoriterank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/header_bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/header_bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/index_bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/index_bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/js/getParameter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/js/getParameter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/js/include.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/js/include.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/myfavorite.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/myfavorite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/myfavorite_bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/myfavorite_bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/register_ok.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/register_ok.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/route_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/route_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/route_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/route_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ustbtravel/route_list_bak.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ustbtravel/route_list_bak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ustbtravel1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ustbtravel1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,97 +105,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/JDBCUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="379">
+              <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://f221dfcf-6017-4772-b167-3548214c5dcb/database/travel/schema/&amp;empty;@#1/table/tab_user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="dde44352-1905-43ac-b1f9-c12babacabdf">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ustbtravel1.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/MailUtils.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/RegisterUserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1950">
-              <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/dao/impl/UserDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5">
-              <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="285" column="14" selection-start-line="285" selection-start-column="14" selection-end-line="285" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="201" column="38" selection-start-line="201" selection-start-column="38" selection-end-line="201" selection-end-column="38" />
+            <state relative-caret-position="390">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -187,7 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/ustb/controller/RegisterUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/controller/RtController.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/dao/FavoriteDao.java" />
@@ -238,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/RouteServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/util/JDBCUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/ustb/util/MailUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -276,10 +255,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="985" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -287,6 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,65 +290,12 @@
               <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ustb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ustb" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ustb" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ustb" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ustb" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ustbtravel1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ustbtravel1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -384,7 +311,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -393,6 +320,9 @@
       <recent name="E:\javaproject\ustbtravel1\src\main\java\edu\ustb\service" />
       <recent name="E:\javaproject\ustbtravel1\src\main\java\edu\ustb\dao\impl" />
       <recent name="E:\javaproject\ustbtravel1\src\main\java\edu\ustb\dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.ustb.util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\javaproject\ustbtravel1\src\main\webapp" />
@@ -414,7 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MailUtils">
+  <component name="RunManager" selected="Tomcat Server.Tomcat server">
     <configuration name="MailUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ustb.util.MailUtils" />
       <module name="ustbtravel1" />
@@ -441,13 +371,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.212" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.21" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER" value="false" />
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="ustbtravel1:war exploded">
+        <artifact name="ustbtravel:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/ustbtravel1" />
+            <option name="CONTEXT_PATH" value="/ustbtravel_war_exploded" />
           </settings>
         </artifact>
       </deployment>
@@ -543,10 +473,16 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="ustbtravel1:war exploded" />
+          <artifact name="ustbtravel:war exploded" />
+          <artifact name="ustbtravel:war exploded" />
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.MailUtils" />
+      <item itemvalue="Application.UuidUtil" />
+      <item itemvalue="Tomcat Server.Tomcat server" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MailUtils" />
@@ -602,6 +538,13 @@
       <workItem from="1565884719909" duration="93000" />
       <workItem from="1565884854075" duration="295000" />
       <workItem from="1565945817467" duration="607000" />
+      <workItem from="1567825337524" duration="113000" />
+      <workItem from="1568109141220" duration="1812000" />
+      <workItem from="1568114619968" duration="298000" />
+      <workItem from="1568644289412" duration="25000" />
+      <workItem from="1573302341833" duration="527000" />
+      <workItem from="1573363825117" duration="47000" />
+      <workItem from="1573870450119" duration="505000" />
     </task>
     <task id="LOCAL-00001" summary="mailutils">
       <created>1566204191754</created>
@@ -617,11 +560,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566204538815</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mailutils">
+      <created>1566204845862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566204845862</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mailutils">
+      <created>1566205119583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566205119583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104039000" />
+    <option name="totallyTimeSpent" value="107966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,7 +593,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49372384" visible="true" weight="0.29040912" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49372384" visible="true" weight="0.23190348" />
       <window_info id="Structure" order="1" sideWeight="0.50627613" side_tool="true" weight="0.23190348" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.50627613" side_tool="true" weight="0.23190348" />
@@ -647,7 +604,7 @@
       <window_info id="Web" order="8" sideWeight="0.50627613" side_tool="true" weight="0.23190348" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914925" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3282123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -655,12 +612,12 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914925" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3282123" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.32914925" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32914925" />
       <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32960895" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.49932975" weight="0.32914925" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.49932975" weight="0.3282123" />
       <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50067025" side_tool="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.3282123" />
       <window_info anchor="bottom" id="Spring" order="18" weight="0.32914925" />
@@ -701,84 +658,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/domain/Seller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/FavoriteService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/TabCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/FavoriteServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/RtServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/TabCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/MailTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/Md5Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -845,13 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/register_ok.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/favoriterank.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -862,23 +734,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f221dfcf-6017-4772-b167-3548214c5dcb/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="74" lean-forward="true" selection-start-column="74" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/zt2441632735/FileStorage/File/2019-07/RouteDaoImpl(1).java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f221dfcf-6017-4772-b167-3548214c5dcb/console.sql" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/zt2441632735/FileStorage/File/2019-07/RouteDaoImpl(1).java" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -931,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="285" column="14" selection-start-line="285" selection-start-column="14" selection-end-line="285" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -959,16 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1006,24 +846,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/myfavorite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1041,9 +867,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/RegisterUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/JDBCUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="260">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1053,11 +900,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/MailUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="1352">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/RtController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/ustb/util/MailTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register_ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="106" selection-start-line="14" selection-start-column="106" selection-end-line="14" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ustb/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f221dfcf-6017-4772-b167-3548214c5dcb/database/travel/schema/&amp;empty;@#1/table/tab_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="dde44352-1905-43ac-b1f9-c12babacabdf">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ustbtravel1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1012,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>ustbtravel1:war exploded</last-edited>
+          <last-edited>ustbtravel:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1128,6 +1073,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: com.alibaba:druid:1.1.18</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
