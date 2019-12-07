@@ -7,6 +7,9 @@ import edu.ustb.domain.RouteReq;
 import edu.ustb.domain.User;
 import edu.ustb.vo.PageBean;
 
+/**
+ * @author 2441632735
+ */
 public interface RouteService {
     PageBean<Route> search(Route route, int currentPage, int pageSize);
 

@@ -8,6 +8,9 @@ import edu.ustb.dao.impl.TabCategoryDaoImpl;
 import edu.ustb.domain.Category;
 import edu.ustb.service.TabCategoryService;
 
+/**
+ * @author 2441632735
+ */
 public class TabCategoryServiceImpl implements TabCategoryService {
     private TabCategoryDao tcd = new TabCategoryDaoImpl();
 

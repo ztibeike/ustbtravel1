@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="MySQL">
-  <database-model serializer="dbm" dbms="UNKNOWN" family-id="UNKNOWN" format-version="4.15">
+  <database-model serializer="dbm" dbms="UNKNOWN" family-id="UNKNOWN" format-version="4.16">
     <root id="1">
       <ServerVersion>0.0</ServerVersion>
       <DefaultCasing>lower/lower</DefaultCasing>
@@ -12,11 +12,9 @@
     <database id="6" parent="1" name="test"/>
     <database id="7" parent="1" name="travel">
       <Current>1</Current>
-      <Visible>1</Visible>
     </database>
     <schema id="8" parent="7">
       <Current>1</Current>
-      <Visible>1</Visible>
     </schema>
     <table id="9" parent="8" name="tab_category"/>
     <table id="10" parent="8" name="tab_favorite"/>

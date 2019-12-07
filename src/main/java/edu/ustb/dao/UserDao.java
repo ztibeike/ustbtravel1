@@ -2,6 +2,9 @@ package edu.ustb.dao;
 
 import edu.ustb.domain.User;
 
+/**
+ * @author 2441632735
+ */
 public interface UserDao {
 
     /**

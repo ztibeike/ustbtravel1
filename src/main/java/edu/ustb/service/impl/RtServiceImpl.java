@@ -7,6 +7,9 @@ import edu.ustb.service.RtService;
 
 import java.util.List;
 
+/**
+ * @author 2441632735
+ */
 public class RtServiceImpl implements RtService {
     private RtDao dao = new RtDaoImpl();
 

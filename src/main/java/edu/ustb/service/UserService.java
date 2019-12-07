@@ -2,6 +2,9 @@ package edu.ustb.service;
 
 import edu.ustb.domain.User;
 
+/**
+ * @author 2441632735
+ */
 public interface UserService {
     /**
      * 注册用户

@@ -7,6 +7,9 @@ import edu.ustb.service.UserService;
 import edu.ustb.util.MailUtils;
 import edu.ustb.util.UuidUtil;
 
+/**
+ * @author 2441632735
+ */
 public class UserServiceImpl implements UserService {
 
     private UserDao userDao = new UserDaoImpl();

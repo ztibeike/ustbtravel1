@@ -6,6 +6,9 @@ import edu.ustb.dao.FavoriteDao;
 import edu.ustb.domain.Route;
 import edu.ustb.util.JDBCUtils;
 
+/**
+ * @author 2441632735
+ */
 public class FavoriteDaoImpl implements FavoriteDao {
 
     private JdbcTemplate template = new JdbcTemplate(JDBCUtils.getDataSource());

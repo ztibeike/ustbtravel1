@@ -6,6 +6,9 @@ import edu.ustb.domain.Route;
 import edu.ustb.domain.RouteReq;
 import edu.ustb.domain.User;
 
+/**
+ * @author 2441632735
+ */
 public interface RouteDao {
     public int getTotalCount(Route route);
 
