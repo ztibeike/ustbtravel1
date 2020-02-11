@@ -9,24 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f221dfcf-6017-4772-b167-3548214c5dcb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f221dfcf-6017-4772-b167-3548214c5dcb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ustbtravel1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ustbtravel1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/include.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/BaseServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/FavoriteDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/FavoriteDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RouteDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RouteDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RtDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RtDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/TabCategoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/TabCategoryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/FavoriteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/FavoriteServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RouteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RouteServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RtServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RtServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/TabCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/TabCategoryServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/UserServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -455,7 +438,7 @@
       <workItem from="1579601906741" duration="128000" />
       <workItem from="1579606498939" duration="89000" />
       <workItem from="1579675206985" duration="10000" />
-      <workItem from="1581391167621" duration="319000" />
+      <workItem from="1581391167621" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="mailutils">
       <created>1566204191754</created>
@@ -499,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575731718530</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update something">
+      <created>1581391710020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581391710020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,14 +515,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update something" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1581391705213">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581391705213" />
     <state x="240" y="31" width="1087" height="714" key="SettingsEditor" timestamp="1579601972622">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="240" y="31" width="1087" height="714" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579601972622" />
-    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581391695419">
+    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581391949349">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1581391695419" />
+    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1581391949349" />
     <state x="178" y="119" key="new project wizard" timestamp="1577793255513">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
