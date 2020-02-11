@@ -363,7 +363,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -441,7 +451,7 @@
       <workItem from="1579601906741" duration="128000" />
       <workItem from="1579606498939" duration="89000" />
       <workItem from="1579675206985" duration="10000" />
-      <workItem from="1581391167621" duration="963000" />
+      <workItem from="1581391167621" duration="2169000" />
     </task>
     <task id="LOCAL-00001" summary="mailutils">
       <created>1566204191754</created>
@@ -499,7 +509,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581391958068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update something">
+      <created>1581392154921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581392154921</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update something">
+      <created>1581392239682</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581392239682</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update something">
+      <created>1581392313530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581392313530</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,10 +556,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="update something" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1581392238480">
+    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1581392312404">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581392238480" />
+    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581392312404" />
+    <state width="1024" height="214" key="GridCell.Tab.0.bottom" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.0.center" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.0.left" timestamp="1581392688914">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581392688914" />
+    <state width="1024" height="214" key="GridCell.Tab.0.right" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.1.bottom" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.1.center" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.1.left" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.1.right" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.2.bottom" timestamp="1581392688916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581392688916" />
+    <state width="1024" height="214" key="GridCell.Tab.2.center" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.2.left" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
+    <state width="1024" height="214" key="GridCell.Tab.2.right" timestamp="1581392688915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1024" height="214" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1581392688915" />
     <state x="240" y="31" width="1087" height="714" key="SettingsEditor" timestamp="1579601972622">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -541,6 +620,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1581392145206" />
+    <state x="473" y="209" key="git4idea.merge.GitPullDialog" timestamp="1581393678816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="209" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1581393678816" />
     <state x="178" y="119" key="new project wizard" timestamp="1577793255513">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
