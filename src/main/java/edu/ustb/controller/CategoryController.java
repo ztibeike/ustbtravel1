@@ -18,7 +18,7 @@ public class CategoryController extends BaseServlet {
 
 
     public void findAll(HttpServletRequest request, HttpServletResponse response) throws IOException {
-        List<Category> list = new ArrayList();
+        List<Category> list;
         list = tcs.findAll();
         writeValue(list, response);
     }

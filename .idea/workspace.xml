@@ -9,52 +9,63 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="">
+    <list default="true" id="9d18f9ca-4457-40b3-954c-a254503c3fda" name="Default Changelist" comment="update something">
+      <change beforePath="$PROJECT_DIR$/.idea/ustbtravel1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ustbtravel1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/ustb/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/ustb/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/BaseServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/BaseServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/CheckCodeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/CheckCodeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RegisterUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RegisterUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RouteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RouteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RtController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/RtController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/controller/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/controller/loginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/FavoriteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/FavoriteDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/RouteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/RouteDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/RtDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/RtDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/TabCategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/TabCategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/FavoriteDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/FavoriteDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RouteDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RouteDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RtDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/RtDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/TabCategoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/TabCategoryDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Favorite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Favorite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Route.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Route.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/RouteImg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/RouteImg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/RouteReq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/RouteReq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Rt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Rt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Seller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/Seller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/FavoriteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/FavoriteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/RouteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/RouteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/RtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/RtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/TabCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/TabCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/FavoriteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/FavoriteServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RouteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RouteServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RtServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/RtServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/TabCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/TabCategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/JedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/JedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/MailUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/Md5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/Md5Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/UuidUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/UuidUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/util/VerifyCodeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/util/VerifyCodeUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/vo/PageBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/vo/PageBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/ustb/vo/ResultInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/ustb/vo/ResultInfo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL" type="feb32156:DbDataSourceImpl" />
-        <item name="travel: database" type="23e365eb:GenericImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MySQL" type="feb32156:DbDataSourceImpl" />
-        <item name="travel: database" type="23e365eb:GenericImplModel$Database" />
-        <item name="#1: schema" type="255a0c4b:GenericImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="ustbtravel1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,9 +93,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/edu/ustb/util/JedisUtil.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="JRebelWorkspace">
-    <option name="jrebelEnabledAutocompile" value="true" />
-  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -96,25 +104,20 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\java\apache-maven-3.3.9\myrepository\repository" />
-        <option name="mavenHome" value="E:/java/apache-maven-3.3.9" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="E:\java\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1UUr3mTL0F8rEk5jPv436OAGcJY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -359,23 +362,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -453,6 +439,10 @@
       <workItem from="1582206405818" duration="26000" />
       <workItem from="1582206458092" duration="68000" />
       <workItem from="1582274891939" duration="66000" />
+      <workItem from="1587043207917" duration="504000" />
+      <workItem from="1587225066300" duration="1264000" />
+      <workItem from="1587293542083" duration="290000" />
+      <workItem from="1587293857095" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="mailutils">
       <created>1566204191754</created>
@@ -538,24 +528,30 @@
       <option name="project" value="LOCAL" />
       <updated>1581393763768</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update something">
+      <created>1587043380396</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587043380396</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mailutils" />
@@ -564,74 +560,78 @@
     <option name="LAST_COMMIT_MESSAGE" value="update something" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1581393762521">
+    <state x="361" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587294466395">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1581393762521" />
+    <state x="361" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587294466395" />
+    <state x="372" y="0" key="CommitChangelistDialog2" timestamp="1587043406486">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587043406486" />
     <state x="583" y="173" key="FileChooserDialogImpl" timestamp="1582206478749">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="583" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1582206478749" />
-    <state width="1024" height="214" key="GridCell.Tab.0.bottom" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.0.bottom" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.0.center" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.0.center" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.0.left" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.0.left" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.0.right" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.0.right" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.1.bottom" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.1.bottom" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
-    <state width="1024" height="214" key="GridCell.Tab.1.center" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.1.center" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.1.left" timestamp="1581394089511">
+    <state width="1024" height="233" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.1.left" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1581394089511" />
-    <state width="1024" height="214" key="GridCell.Tab.1.right" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.1.right" timestamp="1587294131572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
-    <state width="1024" height="214" key="GridCell.Tab.2.bottom" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587294131572" />
+    <state width="1024" height="233" key="GridCell.Tab.2.bottom" timestamp="1587294130950">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
-    <state width="1024" height="214" key="GridCell.Tab.2.center" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587294130950" />
+    <state width="1024" height="233" key="GridCell.Tab.2.center" timestamp="1587294130950">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
-    <state width="1024" height="214" key="GridCell.Tab.2.left" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1587294130950" />
+    <state width="1024" height="233" key="GridCell.Tab.2.left" timestamp="1587294130950">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
-    <state width="1024" height="214" key="GridCell.Tab.2.right" timestamp="1581394089512">
+    <state width="1024" height="233" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1587294130950" />
+    <state width="1024" height="233" key="GridCell.Tab.2.right" timestamp="1587294130950">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1024" height="214" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1581394089512" />
+    <state width="1024" height="233" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1587294130950" />
     <state x="240" y="31" width="1087" height="714" key="SettingsEditor" timestamp="1579601972622">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="240" y="31" width="1087" height="714" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579601972622" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1581393766837">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1587043419082">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581393766837" />
-    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581392145206">
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587043419082" />
+    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587043399948">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1581392145206" />
+    <state x="562" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1587043399948" />
     <state x="473" y="209" key="git4idea.merge.GitPullDialog" timestamp="1581393678816">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -639,7 +639,6 @@
     <state x="178" y="119" key="new project wizard" timestamp="1582274956063">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="119" key="new project wizard/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1577793255513" />
     <state x="178" y="119" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1582274956063" />
     <state x="445" y="264" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582206513977">
       <screen x="0" y="0" width="1536" height="834" />
