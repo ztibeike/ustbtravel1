@@ -1,2 +1,5 @@
 /target
 /out
+src/main/resources/rebel.xml*.xml
+*.iml
+src/test
