@@ -1,5 +1,5 @@
 /target
 /out
-src/main/resources/rebel.xml*.xml
+src/main/resources/rebel.xml
 *.iml
 src/test
