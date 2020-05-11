@@ -5,3 +5,4 @@ src/main/resources/rebel.xml
 src/test
 .classpath
 .settings
+.project
