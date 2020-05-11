@@ -7,8 +7,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import edu.ustb.domain.User;
-import edu.ustb.service.UserService;
-import edu.ustb.service.impl.UserServiceImpl;
 
 @WebServlet("/login/*")
 public class loginController extends BaseServlet {

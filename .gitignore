@@ -3,3 +3,5 @@
 src/main/resources/rebel.xml
 *.iml
 src/test
+.classpath
+.settings

@@ -1,17 +1,15 @@
 package edu.ustb.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.IOException;
+import java.util.List;
+
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
 import edu.ustb.domain.Rt;
 import edu.ustb.service.RtService;
 import edu.ustb.service.impl.RtServiceImpl;
-
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-import java.io.IOException;
-import java.util.List;
 
 @WebServlet("/rt/*")
 public class RtController extends BaseServlet {
