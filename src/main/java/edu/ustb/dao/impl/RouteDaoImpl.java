@@ -124,11 +124,14 @@ public class RouteDaoImpl implements RouteDao {
     }
 
     @Override
-    public boolean isFavorite(Route route) {
+    public boolean isFavorite(Route route, User user) {
         boolean flag = false;
         String sql = "select count(*) from tab_favorite where 1=1";
         if (route.getRid() > 0) {
             sql += " and rid=" + route.getRid();
+        }
+        if (user.getUid() > 0) {
+            sql += " and uid=" + user.getUid();
         }
         try {
             flag = template.queryForObject(sql, Integer.class) > 0;

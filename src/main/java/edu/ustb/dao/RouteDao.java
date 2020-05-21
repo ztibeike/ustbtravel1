@@ -18,7 +18,7 @@ public interface RouteDao {
 
     public Route findOne(Route route);
 
-    public boolean isFavorite(Route route);
+    public boolean isFavorite(Route route, User user);
 
     public int addFavorite(Route route, User user);
 

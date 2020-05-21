@@ -15,7 +15,7 @@ public interface RouteService {
 
     Route findOne(Route route);
 
-    boolean isFavorite(Route route);
+    boolean isFavorite(Route route, User user);
 
     boolean addFavorite(Route route, User user);
 

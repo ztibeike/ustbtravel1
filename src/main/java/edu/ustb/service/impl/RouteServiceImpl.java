@@ -46,9 +46,9 @@ public class RouteServiceImpl implements RouteService {
     }
 
     @Override
-    public boolean isFavorite(Route route) {
+    public boolean isFavorite(Route route, User user) {
 
-        return dao.isFavorite(route);
+        return dao.isFavorite(route, user);
     }
 
     @Override

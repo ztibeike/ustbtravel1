@@ -197,7 +197,6 @@
 
     $(function () {
         // 发送请求，判断用户是否收藏过该线路
-        var rid = getParameter("rid");
         $.get("route/isFavorite", {rid: rid}, function (flag) {
             if (flag) {
                 // 用户已经收藏过

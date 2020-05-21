@@ -50,6 +50,7 @@ public class RouteController extends BaseServlet {
     public void findOne(HttpServletRequest request, HttpServletResponse response) throws IOException {
         Map<String, String[]> map = request.getParameterMap();
         Route route = new Route();
+        User user = new User();
         try {
             BeanUtils.populate(route, map);
         } catch (IllegalAccessException | InvocationTargetException e) {
@@ -63,14 +64,16 @@ public class RouteController extends BaseServlet {
     public void isFavorite(HttpServletRequest request, HttpServletResponse response) throws IOException {
         Map<String, String[]> map = request.getParameterMap();
         Route route = new Route();
+        User user = (User) request.getSession().getAttribute("user");
         try {
             BeanUtils.populate(route, map);
+            BeanUtils.populate(user, map);
         } catch (IllegalAccessException | InvocationTargetException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
         boolean flag = false;
-        flag = service.isFavorite(route);
+        flag = service.isFavorite(route, user);
         writeValue(flag, response);
     }
 
