@@ -4,3 +4,5 @@ src/test
 .settings
 .project
 .idea/
+target/
+out/
